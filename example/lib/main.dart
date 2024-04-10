@@ -1,7 +1,7 @@
 import 'package:example/content.dart';
 import 'package:flutter/material.dart';
-import 'package:swipe_cards/draggable_card.dart';
-import 'package:swipe_cards/swipe_cards.dart';
+import 'package:swipe_core_cards/draggable_card.dart';
+import 'package:swipe_core_cards/swipe_cards.dart';
 
 void main() {
   runApp(MyApp());

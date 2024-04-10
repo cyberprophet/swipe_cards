@@ -1,6 +1,6 @@
-name: swipe_cards
+name: swipe_core_cards
 description: Tinder like swipe cards.
-version: 2.0.1+1
+version: 2.0.1
 homepage: https://github.com/cyberprophet/swipe_cards
 
 environment:

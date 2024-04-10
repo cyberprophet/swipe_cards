@@ -2,8 +2,8 @@ library swipe_cards;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:swipe_cards/draggable_card.dart';
-import 'package:swipe_cards/profile_card.dart';
+import 'package:swipe_core_cards/draggable_card.dart';
+import 'package:swipe_core_cards/profile_card.dart';
 
 class SwipeCards extends StatefulWidget {
   final IndexedWidgetBuilder itemBuilder;

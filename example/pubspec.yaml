@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  swipe_cards:
+  swipe_core_cards:
     path: ..
 
 dev_dependencies:
