@@ -222,11 +222,11 @@ class MatchEngine extends ChangeNotifier {
   }
 
   SwipeItem? get currentItem => _currentItemIndex! < _swipeItems!.length
-      ? _swipeItems![_currentItemIndex!]
+      ? _swipeItems[_currentItemIndex!]
       : null;
 
   SwipeItem? get nextItem => _nextItemIndex! < _swipeItems!.length
-      ? _swipeItems![_nextItemIndex!]
+      ? _swipeItems[_nextItemIndex!]
       : null;
 
   void cycleMatch() {

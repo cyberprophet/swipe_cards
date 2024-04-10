@@ -1,11 +1,10 @@
 name: swipe_cards
 description: Tinder like swipe cards.
-version: 2.0.0+1
-homepage: https://github.com/AnupKumarPanwar/swipe_cards
+version: 2.0.1+1
+homepage: https://github.com/cyberprophet/swipe_cards
 
 environment:
-  sdk: ">=2.17.5 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=3.2.5 <4.0.0"
 
 dependencies:
   flutter:

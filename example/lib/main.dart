@@ -127,25 +127,22 @@ class _MyHomePageState extends State<MyHomePage> {
               likeTag: Container(
                 margin: const EdgeInsets.all(15.0),
                 padding: const EdgeInsets.all(3.0),
-                decoration: BoxDecoration(
-                    border: Border.all(color: Colors.green)
-                ),
+                decoration:
+                    BoxDecoration(border: Border.all(color: Colors.green)),
                 child: Text('Like'),
               ),
               nopeTag: Container(
                 margin: const EdgeInsets.all(15.0),
                 padding: const EdgeInsets.all(3.0),
-                decoration: BoxDecoration(
-                    border: Border.all(color: Colors.red)
-                ),
+                decoration:
+                    BoxDecoration(border: Border.all(color: Colors.red)),
                 child: Text('Nope'),
               ),
               superLikeTag: Container(
                 margin: const EdgeInsets.all(15.0),
                 padding: const EdgeInsets.all(3.0),
-                decoration: BoxDecoration(
-                    border: Border.all(color: Colors.orange)
-                ),
+                decoration:
+                    BoxDecoration(border: Border.all(color: Colors.orange)),
                 child: Text('Super Like'),
               ),
             ),
